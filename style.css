@@ -8,13 +8,13 @@ body {
 loader {
   color: #fff;
   font-family: monospace;
-  font-size: 22px;
+  font-size: 54px;
 }
 
 logo {
   color: #fff;
   font-family: sans-serif;
-  font-size: 128px;
+  font-size: 270px;
   text-align: center;
 }
 
@@ -25,23 +25,23 @@ logo {
 .main-title {
   color: #fff;
   font-family: sans-serif;
-  font-size: 128px;
+  font-size: 270px;
   text-align: center;
-  margin-top: -90px;
+  margin-top: -140px;
 }
 
 .subtitle {
   color: #fff;
   font-family: sans-serif;
-  font-size: 32px;
+  font-size: 80px;
   letter-spacing: 1px;
-  margin-top: -120px;
+  margin-top: -160px;
   text-align: center;
   transition: letter-spacing 3s;
 }
 
 .expanded {
-  letter-spacing: 36px;
+  letter-spacing: 42px;
   transition: letter-spacing 3s;
 }
 
@@ -54,11 +54,11 @@ logo {
 }
 
 .white {
-  height: 164px;
-  width: 164px;
+  height: 320px;
+  width: 320;
 }
 
 .black {
-  height: 48px;
-  width: 48px;
+  height: 64px;
+  width: 64px;
 }
