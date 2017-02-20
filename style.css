@@ -52,7 +52,7 @@ logo {
   display: flex;
   color: #000;
   font-family: monospace;
-  font-size: 100px;
+  font-size: 200px;
   height: 0px;
   justify-content: center;
   width: 0px;
@@ -60,8 +60,8 @@ logo {
 }
 
 .white {
-  height: 600px;
-  width: 600px;
+  height: 720px;
+  width: 720px;
 }
 
 .black {
