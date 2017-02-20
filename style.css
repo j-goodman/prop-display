@@ -25,7 +25,7 @@ logo {
 .main-title {
   color: #fff;
   font-family: sans-serif;
-  font-size: 340px;
+  font-size: 312px;
   text-align: center;
   margin-top: -140px;
 }
@@ -56,15 +56,16 @@ logo {
   height: 0px;
   justify-content: center;
   width: 0px;
-  transition: height 1s, width 1s;
+  transition: height 1s, width 1s, color 1s;
 }
 
 .white {
-  height: 450px;
-  width: 450;
+  height: 600px;
+  width: 600px;
 }
 
 .black {
-  height: 64px;
-  width: 64px;
+  color: #fff;
+  height: 0px;
+  width: 0px;
 }
